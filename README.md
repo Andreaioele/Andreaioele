@@ -48,6 +48,9 @@
 <a href="https://laravel.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 
+<a href="https://expressjs.com/" target="_blank"> 
+<img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" alt="express" width="40" height="40"/> </a> 
+
 
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -107,10 +110,18 @@
 
 
 
+</p>
+
+<h3 align="left">CMS</h3>
+<p>
 
 
 
+<a href="https://it.wordpress.org/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a> 
 
+<a href="https://business.adobe.com/uk/solutions/experience-management-platform.html?ef_id=Cj0KCQjw_r6hBhDdARIsAMIDhV8zurXFWahix-PdPv4hnvDQQXotl-NRWQvf52LYiJ64uwsLl7aNB-IaAof4EALw_wcB:G:s&s_kwcid=AL!3085!3!628340950757!e!!g!!aem!18605643044!145397882874&s_cid=7015Y000003AHppQAG&sdid=WG1BJFDD&mv=search" target="_blank"> 
+<img src="https://seeklogo.com/images/A/adobe-experience-manager-logo-0A31E4179A-seeklogo.com.png" alt="AEM" width="40" height="40"/> </a> 
 
 
 
